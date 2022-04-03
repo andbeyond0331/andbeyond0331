@@ -2,7 +2,7 @@
 
 
 안녕하세요, 노력하는 개발자 박미정 입니다!
-***
+
 <!--
 **andbeyond0331/andbeyond0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ### Most used Languages
 ***
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andbeyond0331)](https://github.com/andbeyond0331/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andbeyond0331)](https://github.com/andbeyond0331/github-readme-stats)
 
 
 
