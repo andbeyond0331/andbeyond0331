@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Tech Stack
+### Tech Stack
 
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
 
-# Tools
+### Tools
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 
-
+### GitHub Stats
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andbeyond0331)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,5 +43,11 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andbeyond0331&show_icons=true&theme=highcontrast)
 
+### 백준 티어
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdrhdrkqns)](https://solved.ac/tjdrhdrkqns)
+
+### Most used Languages
+
+[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andbeyond0331)](https://github.com/andbeyond0331/github-readme-stats)
 
