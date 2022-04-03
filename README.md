@@ -3,9 +3,9 @@
 
 안녕하세요, 노력하는 개발자 박미정 입니다!   
    
-      
-         
-            
+      &nbsp;
+         &nbsp;
+            &nbsp;
             
 <!--
 **andbeyond0331/andbeyond0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ***
 
 2021.08.09 ~ 2022.01.25 
-자바 기반 Web Platform Service(RestFul Server) 구축 Web & App 개발자 양성과정을 이수했습니다. 과정 중 미니 프로젝트와 메인 프로젝트를 진행했습니다.
+자바 기반 Web Platform Service(RestFul Server) 구축 Web & App 개발자 양성과정을 이수했습니다.    과정 중 미니 프로젝트와 메인 프로젝트를 진행했습니다.
 
 
 ### Tech Stack
