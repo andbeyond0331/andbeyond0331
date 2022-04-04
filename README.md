@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+
 
 #### Tools
 
