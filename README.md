@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 2021.08.09 ~ 2022.01.25 
 자바 기반 Web Platform Service(RestFul Server) 구축 Web & App 개발자 양성과정을 이수했습니다.   
-과정 중 미니 프로젝트와 메인 프로젝트를 진행했습니다.
+과정 중 미니 프로젝트와 [메인 프로젝트](https://github.com/andbeyond0331/ffin)를 진행했습니다.
 
 
 #### Tech Stack
