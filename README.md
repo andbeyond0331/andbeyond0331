@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 
 #### 백준 티어
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=tjdrhdrkqns)](https://solved.ac/tjdrhdrkqns)
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdrhdrkqns)](https://solved.ac/tjdrhdrkqns)
 
