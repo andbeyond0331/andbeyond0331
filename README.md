@@ -78,7 +78,6 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tjdrhdrkqns)](https://solved.ac/tjdrhdrkqns)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdrhdrkqns)](https://solved.ac/tjdrhdrkqns)
 
 #### Most used Languages
 
