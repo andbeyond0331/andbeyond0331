@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 과정 중 미니 프로젝트와 [메인 프로젝트](https://github.com/andbeyond0331/ffin)를 진행했습니다.
 
 2023.01.04 ~ 진행 중
-삼성 청년 소프트웨어 아카데미 (SSAFY) 과정 진행 중입니다.
-알고리즘, Java, Spring, JavaScript, Vue.js 교육과 함께 Spring, React를 이용한 시 플랫폼 프로젝트를 병행하고 있습니다.
+삼성 청년 소프트웨어 아카데미 (SSAFY) 과정 진행 중입니다.<br>
+알고리즘, Java, Spring, JavaScript, Vue.js 교육과 함께 Spring, React를 이용한 [시 플랫폼](https://github.com/poemnow) 프로젝트를 병행하고 있습니다.
 
 
 #### Tech Stack
