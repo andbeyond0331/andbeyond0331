@@ -26,13 +26,16 @@ Here are some ideas to get you started:
 
 #### 교육
 
-2021.08.09 ~ 2022.01.25 
+2021.08.09 ~ 2022.01.25 (950시간)
 자바 기반 Web Platform Service(RestFul Server) 구축 Web & App 개발자 양성과정을 이수했습니다.   
-과정 중 미니 프로젝트와 [메인 프로젝트](https://github.com/andbeyond0331/ffin)를 진행했습니다.
+과정 중 간단한 모바일 채팅 앱 구현, 미니 프로젝트와 [메인 프로젝트](https://github.com/andbeyond0331/ffin)를 진행했습니다.
 
-2023.01.04 ~ 진행 중
-삼성 청년 소프트웨어 아카데미 (SSAFY) 과정 진행 중입니다.<br>
-알고리즘, Java, Spring, JavaScript, Vue.js 교육과 함께 Spring, React를 이용한 [시 플랫폼](https://github.com/poemnow) 프로젝트를 병행하고 있습니다.
+2023.01.04 ~ 2023.12.29 (1600시간)
+삼성 청년 소프트웨어 아카데미 (SSAFY) 과정 이수했습니다.<br>
+1학기: 알고리즘, Java, Spring, JavaScript, Vue.js 교육과 함께 Spring, React를 이용한 [시 플랫폼](https://github.com/poemnow) 프로젝트를 스터디로 병행했습니다.<br>
+2학기: 자기주도형 프로젝트 진행
+  - [웃음 참기 플랫폼 '데구르르'](https://github.com/TEAM-DGRR/dgrr)
+  - [최신 뉴스 기반 단어 추측 게임 '단추'](https://github.com/team-hca/danchu)
 
 
 #### Tech Stack
